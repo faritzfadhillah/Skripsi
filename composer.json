@@ -1,0 +1,15 @@
+{
+    "name": "haifahrul/kuesioner-faritz",
+    "description": "Kuesioner",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A Fakhrurozi S",
+            "email": "haifahrul@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "1.8.2",
+        "mpdf/mpdf": "7.0.1"
+    }
+}
